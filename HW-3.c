@@ -1,6 +1,7 @@
 /*
 Name=Nixon Deb Antu
 Registration no. = 2020831023
+Efficiency using standard deviation
 */
 #include<stdio.h>
 #include<math.h>
